@@ -1,1 +1,1 @@
-# PracticasB
+# Practicas de programacion.
